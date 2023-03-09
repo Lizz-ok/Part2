@@ -1,0 +1,35 @@
+commit 6a3d1427243a09f3ad1238e3c1316cd12cb7ecf1
+Author: liza <ok.lizzok@mail.ru>
+Date:   Thu Mar 9 21:54:59 2023 +0300
+
+    Add .gitignore
+
+commit e25a4256597fadf3141f5517fd00fe024747ea29
+Author: liza <ok.lizzok@mail.ru>
+Date:   Thu Mar 9 21:48:27 2023 +0300
+
+    Add .gitignore
+
+commit d4a48bf471deb2fd463bb5dfc583d11d5cb8d395
+Author: liza <ok.lizzok@mail.ru>
+Date:   Thu Mar 9 21:20:15 2023 +0300
+
+    Master commit
+
+commit ee9522460a5c41d5487e89c2bf71a53c60650a2e
+Author: liza <ok.lizzok@mail.ru>
+Date:   Thu Mar 9 21:16:44 2023 +0300
+
+    Merge
+
+commit 8ea87f7523ee6bb33e8e6ced6bd7aff37651b929
+Author: liza <ok.lizzok@mail.ru>
+Date:   Thu Mar 9 21:09:36 2023 +0300
+
+    Second commit
+
+commit 4acc603387d63d3885ce12e17dc30a773177e174
+Author: liza <ok.lizzok@mail.ru>
+Date:   Thu Mar 9 21:08:33 2023 +0300
+
+    First commit
